@@ -4,7 +4,7 @@
 
 When using this code (or parts of it), please cite the following paper:
 
-XXX
+Hartz, A., Guth, B., Jording, M., Vogeley, K., & Schulte-Rüther, M. (2021). Temporal Behavioral Parameters of On-Going Gaze Encounters in a Virtual Environment. Frontiers in Psychology, 12, 673982. https://doi.org/10.3389/fpsyg.2021.673982
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TriPy</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/arnohakk/TriPy" property="cc:attributionName" rel="cc:attributionURL">Arne Hartz and Martin Schulte-Rüther</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
